@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7a42cc2fc7ab3ec47b462d6b788af46f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabMouseObj: {fileID: 3440203041619904351, guid: 756f3466d5b1f3d4282af1e138446f05,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
